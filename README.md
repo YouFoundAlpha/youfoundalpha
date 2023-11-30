@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<a rel="me" href="https://technodon.social/@YouFoundAlpha">Mastodon</a>
+<a rel="me" href="https://mastodon.social/@YouFoundAlpha"></a>

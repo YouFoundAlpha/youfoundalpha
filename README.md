@@ -4,4 +4,3 @@
 
 ![Alpha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouFoundAlpha&show_icons=true)
 ![Alpha's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YouFoundAlpha)
-![Alpha's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=YouFoundAlpha)
